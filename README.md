@@ -1,6 +1,10 @@
-A smart searching Bar which works currently for static location and fetches near by locations using Vue.js from Olamaps API
+## 📍 Smart Search Bar for Nearby Locations
 
-// COMMANDS
+This project implements a **smart search bar** using **Vue.js** that fetches **nearby locations** from the **Olamaps API** based on a static location.
+
+### 🚀 How to Run
+
+Use the following command to start the development server:
+
+```bash
 npm run dev
-
-Start searching on the bar
